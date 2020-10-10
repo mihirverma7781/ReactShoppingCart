@@ -1,38 +1,41 @@
-.App {
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-home{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+img{
+  height: 200px;
+  width: 350px;
+  border-radius: 10px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.products-div{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
+  margin-top: 5em;
+  flex-wrap: wrap;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+ .pro-items{
+   /* margin: 2em; */
+   padding-bottom: 2em;
+  box-shadow: 3px 3px 5px rgb(131, 131, 131);
+  border-radius: 10px;
+  margin-bottom: 2em;
+ }
+ h5{
+   padding: 1em;
+   background-color: rgb(165, 165, 165);
+   color: white;
+  
+ }
+ .cart-main{
+   display: flex;
+   flex-direction: column;
+ }
+ .bc{
+   display: flex;
+ }

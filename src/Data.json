@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Poco M2 Pro",
+        "quantity":1,
+        "cost":12000,
+        "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Funbox-seohacker.netdna-ssl.com%2Fwp-content%2Fuploads%2F2020%2F07%2FPOCO-M2-Pro.jpg&f=1&nofb=1"
+    },
+    {
+        "id":2,
+        "name":"Samsung Note 20 Pro",
+        "quantity":1,
+        "cost":100000,
+        "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.soyacincau.com%2Fwp-content%2Fuploads%2F2020%2F07%2F200723-samsung-galaxy-note-20-rquandt-10-1.jpg&f=1&nofb=1"
+    },
+    {
+        "id":3,
+        "name":"IPhone 11 Pro Max",
+        "quantity":1,
+        "cost":100000,
+        "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fas-images.apple.com%2Fis%2Fiphone-11-pro-space-select-2019%3Fwid%3D1200%26hei%3D630%26fmt%3Djpeg%26qlt%3D95%26op_usm%3D0.5%2C0.5%26.v%3D1566954989577&f=1&nofb=1"
+    },
+    {
+        "id":4,
+        "name":"Huawei P40 Pro",
+        "quantity":1,
+        "cost":110000,
+        "image":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pocket-lint.com%2Fr%2Fs%2F970x%2Fassets%2Fimages%2F151398-phones-feature-huawei-p40-pro-vs-p30-pro-image1-nbxinltlm3.jpg&f=1&nofb=1"
+    }
+]
